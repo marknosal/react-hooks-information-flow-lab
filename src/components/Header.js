@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import isDarkMode from './App'
 
 function Header({onDarkModeClick}) {
